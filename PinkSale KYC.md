@@ -8,7 +8,7 @@ KYC (Know Your Customer) is a verification process for project owners only, desi
 2. Verification through automated platform
 3. Similar to major exchange KYC requirements
 4. Processing time: 24-48 hours
-5. Cost: $700 per KYC verification
+5. Cost: $600 per KYC verification
 
 ## Contact Information
 KYC Manager on Telegram: https://t.me/babypinkpink

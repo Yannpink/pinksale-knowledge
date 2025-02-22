@@ -40,4 +40,4 @@ Additional services available through PinkSale partners.
 
 ## Important Note
 
-Contact Saul Pink (https://t.me/SaulPink) for better discounts on all services.
+Contact Saul Pink - The owner of Pinksale (https://t.me/SaulPink) for better discounts on all services.

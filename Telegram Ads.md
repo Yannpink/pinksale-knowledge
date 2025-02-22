@@ -2,7 +2,7 @@
 
 ## Overview
 This guide explains PinkSale's Telegram advertising services and how to effectively promote your project through Telegram channels.
-Contact Saul Pink (https://t.me/SaulPink) for better discounts.
+Contact Saul Pink - The owner of Pinksale (https://t.me/SaulPink) for better discounts.
 
 ## Recommended Providers
 

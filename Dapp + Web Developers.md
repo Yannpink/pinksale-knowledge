@@ -1,6 +1,6 @@
 # Dapp + Web Developers
 
-**Important Note**: Please mention you were referred by Saul Pink to get better discounts.
+**Important Note**: Please mention you were referred by Saul Pink - The owner of Pinksale to get better discounts.
 
 ## Overview
 This guide lists verified developers and agencies providing DApp and web development services for blockchain projects.

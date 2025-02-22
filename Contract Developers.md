@@ -1,7 +1,7 @@
 # Contract Developers
 
 ## Overview
-This document lists verified contract developers for blockchain projects. When contacting these developers, mention that you got the contact from Saul Pink for better discounts.
+This document lists verified contract developers for blockchain projects. When contacting these developers, mention that you got the contact from Saul Pink - The owner of Pinksale for better discounts.
 
 1. Blade
 

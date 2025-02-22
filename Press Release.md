@@ -4,7 +4,7 @@
 This document lists press release service providers and contact information for discounts.
 
 ## Contact Information
-- Contact Saul Pink (https://t.me/SaulPink) for better discounts.
+- Contact Saul Pink - The owner of Pinksale (https://t.me/SaulPink) for better discounts.
 
 ## Service Providers
 Listed by coverage and price:
