@@ -1,142 +1,169 @@
 # PinkSale Service Fees
 
-PinkSale charges service fees that include a flat creation fee for token minting and pool creation, as well as a 5% fee on total funds raised if the soft cap is met. PinkLock is free on all supported chains.
+## Overview
+PinkSale provides various services across multiple blockchain networks. Each service has specific fees that vary by chain. PinkLock service is free on all supported chains.
 
-## Service Fee Configurations by Chain
+## General Fee Structure
+- Token Creation: Flat fee for minting
+- Pool Creation: Base fee + 5% of raised funds (if soft cap met)
+- Private Sale: Base fee + 3% of raised funds (if soft cap met)
+- Additional Services: Anti-Bot, Airdrop (where available)
+- PinkLock: Free on all chains
 
-### 1. BNB Smart Chain (BNB/BSC)
+## Detailed Fee Structure by Chain
 
--   Token Minting Fees (all types): 0.4 BNB
--   Create Pool Fees (all types): 1 BNB + 5% BNB raised if soft cap is met
--   Create Private Sale Fees: 1 BNB + 3% of BNB raised if soft cap is met
--   Pink Anti-Bot: 1 BNB
--   Pink Airdrop: 0.5 BNB
--   PinkLock: Free
+### Popular Chains
 
-### 2. Ethereum
+#### BNB Smart Chain (BNB/BSC)
+- Token Minting: 0.4 BNB
+- Pool Creation: 1 BNB + 5% of raised
+- Private Sale: 1 BNB + 3% of raised
+- Anti-Bot: 1 BNB
+- Airdrop: 0.5 BNB
+- PinkLock: Free
 
--   Token Minting Fees: 0.1 ETH
--   Create Pool Fees: 0.2 ETH + 5% ETH raised if soft cap is met
--   Pink Anti-Bot: 0.1 ETH
--   Pink Airdrop: 0.1 ETH
--   PinkLock: Free
+#### Ethereum
+- Token Minting: 0.1 ETH
+- Pool Creation: 0.2 ETH + 5% of raised
+- Anti-Bot: 0.1 ETH
+- Airdrop: 0.1 ETH
+- PinkLock: Free
 
-### 3. Solana
+#### Solana
+- Token Minting: 1 SOL
+- Pool Creation: 4 SOL + 5% of raised
+- Anti-Bot: Not Available
+- Airdrop: Not Available
+- PinkLock: 1 SOL
 
--   Token Minting Fees: 1 SOL
--   Create Pool Fees: 4 SOL + 5% SOL raised if soft cap is met
--   Pink Anti-Bot: Not available
--   Pink Airdrop: Not available
--   PinkLock: Free
+#### Polygon
+- Token Minting: 30 MATIC
+- Pool Creation: 100 MATIC + 5% of raised
+- Anti-Bot: 50 MATIC
+- Airdrop: 50 MATIC
+- PinkLock: Free
 
-### 4. TON
+### Layer 2 Solutions
 
--   Token Minting Fees: 20 TON
--   Create Pool Fees: 60 TON + 5% TON raised if soft cap is met
--   Pink Anti-Bot: Not available
--   Pink Airdrop: Not available
--   PinkLock: Free
+#### Arbitrum
+- Token Minting: 0.01 ETH
+- Pool Creation: 0.2 ETH + 5% of raised
+- Anti-Bot: 0.1 ETH
+- Airdrop: 0.1 ETH
+- PinkLock: Free
 
-### 5. SUI
+#### Base
+- Token Minting: 0.01 ETH
+- Pool Creation: 0.1 ETH + 5% of raised
+- Anti-Bot: 0.05 ETH
+- Airdrop: 0.1 ETH
+- PinkLock: Free
 
--   Token Minting Fees: 120 SUI
--   Create Pool Fees: 120 SUI + 5% SUI raised if soft cap is met
--   Pink Anti-Bot: Not available
--   Pink Airdrop: Not available
--   PinkLock: Free
+### Alternative Chains
 
-### 6. Base
+#### TON
+- Token Minting: 20 TON
+- Pool Creation: 60 TON + 5% of raised
+- Anti-Bot: Not Available
+- Airdrop: Not Available
+- PinkLock: Free
 
--   Token Minting Fees: 0.01 ETH
--   Create Pool Fees: 0.1 ETH + 5% ETH raised if soft cap is met
--   Pink Anti-Bot: 0.05 ETH
--   Pink Airdrop: 0.1 ETH
--   PinkLock: Free
+#### SUI
+- Token Minting: 120 SUI
+- Pool Creation: 120 SUI + 5% of raised
+- Anti-Bot: Not Available
+- Airdrop: Not Available
+- PinkLock: Free
 
-### 7. Alvey
+#### Avalanche
+- Token Minting: 1 AVAX
+- Pool Creation: 10 AVAX + 5% of raised
+- Anti-Bot: 5 AVAX
+- Airdrop: 5 AVAX
+- PinkLock: Free
 
--   Token Minting Fees: 800 ALV
--   Create Pool Fees: 4000 ALV + 5% ALV raised if soft cap is met
--   Pink Anti-Bot: 2000 ALV
--   Pink Airdrop: 2000 ALV
--   PinkLock: Free
+### Additional Supported Chains
 
-### 8. Arbitrum
+#### Alvey
+- Token Minting: 800 ALV
+- Pool Creation: 4000 ALV + 5% of raised
+- Anti-Bot: 2000 ALV
+- Airdrop: 2000 ALV
+- PinkLock: Free
 
--   Token Minting Fees: 0.01 ETH
--   Create Pool Fees: 0.2 ETH + 5% ETH raised if soft cap is met
--   Pink Anti-Bot: 0.1 ETH
--   Pink Airdrop: 0.1 ETH
--   PinkLock: Free
+#### Bitrock
+- Token Minting: 0.01 BROCK
+- Pool Creation: 1000 BROCK + 5% of raised
+- Anti-Bot: 500 BROCK
+- Airdrop: 500 BROCK
+- PinkLock: Free
 
-### 9. Avalanche
+#### Core
+- Token Minting: 0.01 CORE
+- Pool Creation: 600 CORE + 5% of raised
+- Anti-Bot: 300 CORE
+- Airdrop: 300 CORE
+- PinkLock: Free
 
--   Token Minting Fees: 1 AVAX
--   Create Pool Fees: 10 AVAX + 5% AVAX raised if soft cap is met
--   Pink Anti-Bot: 5 AVAX
--   Pink Airdrop: 5 AVAX
--   PinkLock: Free
+#### Cronos
+- Token Minting: 100 CRO
+- Pool Creation: 1000 CRO + 5% of raised
+- Anti-Bot: 500 CRO
+- Airdrop: 500 CRO
+- PinkLock: Free
 
-### 10. Bitrock
+#### Cybria
+- Token Minting: 10000 CYBA
+- Pool Creation: 50000 CYBA + 5% of raised
+- Anti-Bot: 25000 CYBA
+- Airdrop: 25000 CYBA
+- PinkLock: Free
 
--   Token Minting Fees: 0.01 BROCK
--   Create Pool Fees: 1000 BROCK + 5% BROCK raised if soft cap is met
--   Pink Anti-Bot: 500 BROCK
--   Pink Airdrop: 500 BROCK
--   PinkLock: Free
+#### Doge
+- Token Minting: 100 DOGE
+- Pool Creation: 1000 DOGE + 5% of raised
+- Anti-Bot: 500 DOGE
+- Airdrop: 500 DOGE
+- PinkLock: Free
 
-### 11. Core
+#### Pulse
+- Token Minting: 0.01 PLS
+- Pool Creation: 3,000,000 PLS + 5% of raised
+- Anti-Bot: 1,500,000 PLS
+- Airdrop: 300,000 PLS
+- PinkLock: Free
 
--   Token Minting Fees: 0.01 CORE
--   Create Pool Fees: 600 CORE + 5% CORE raised if soft cap is met
--   Pink Anti-Bot: 300 CORE
--   Pink Airdrop: 300 CORE
--   PinkLock: Free
+#### Zeta
+- Token Minting: 0.01 ZETA
+- Pool Creation: 10 ZETA + 5% of raised
+- Anti-Bot: 5 ZETA
+- Airdrop: 5 ZETA
+- PinkLock: Free
 
-### 12. Cronos
+## Common Questions
+- Q: Is PinkLock really free on all chains?
+  A: PinkLock is free on most chains except Solana which costs 1 SOL per lock
+- Q: When is the 5% fee charged?
+  A: Only when the soft cap is met for the pool
+- Q: Are fees refundable?
+  A: No, service fees are non-refundable
+- Q: Do private sales have different fees?
+  A: Yes, private sales have a 3% fee instead of 5%
 
--   Token Minting Fees: 100 CRO
--   Create Pool Fees: 1000 CRO + 5% CRO raised if soft cap is met
--   Pink Anti-Bot: 500 CRO
--   Pink Airdrop: 500 CRO
--   PinkLock: Free
+## Service Availability
+- Universal Services: Token Minting, Pool Creation, PinkLock (fee on Solana)
+- Limited Services: Anti-Bot, Airdrop (not available on all chains)
+- Chain-Specific: Some features may be restricted on certain chains
 
-### 13. Cybria
+## Fee Categories
+- Base Fees: Token minting, pool creation base cost
+- Success Fees: Percentage of raised funds
+- Additional Services: Anti-Bot, Airdrop
+- Free Services: PinkLock (except on Solana)
 
--   Token Minting Fees: 10000 CYBA
--   Create Pool Fees: 50000 CYBA + 5% CYBA raised if soft cap is met
--   Pink Anti-Bot: 25000 CYBA
--   Pink Airdrop: 25000 CYBA
--   PinkLock: Free
-
-### 14. Doge
-
--   Token Minting Fees: 100 DOGE
--   Create Pool Fees: 1000 DOGE + 5% DOGE raised if soft cap is met
--   Pink Anti-Bot: 500 DOGE
--   Pink Airdrop: 500 DOGE
--   PinkLock: Free
-
-### 15. Polygon
-
--   Token Minting Fees: 30 MATIC
--   Create Pool Fees: 100 MATIC + 5% MATIC raised if soft cap is met
--   Pink Anti-Bot: 50 MATIC
--   Pink Airdrop: 50 MATIC
--   PinkLock: Free
-
-### 16. Pulse
-
--   Token Minting Fees: 0.01 PLS
--   Create Pool Fees: 3,000,000 PLS + 5% PLS raised if soft cap is met
--   Pink Anti-Bot: 1,500,000 PLS
--   Pink Airdrop: 300,000 PLS
--   PinkLock: Free
-
-### 17. Zeta
-
--   Token Minting Fees: 0.01 ZETA
--   Create Pool Fees: 10 ZETA + 5% ZETA raised if soft cap is met
--   Pink Anti-Bot: 5 ZETA
--   Pink Airdrop: 5 ZETA
--   PinkLock: Free
+## Important Notes
+- All fees must be paid in the native token of the respective chain
+- Fees are subject to change based on market conditions
+- Some services may not be available on all chains
+- Always verify current fees on the official platform
+- Additional network gas fees may apply
