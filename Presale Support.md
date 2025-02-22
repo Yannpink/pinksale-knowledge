@@ -3,6 +3,14 @@
 ## Overview
 For assistance with presales on our platform, you can contact our dedicated support teams through Telegram. We have specialized teams for KYC/Audit support and general inquiries. All team members listed below are official PinkSale staff members.
 
+## Development Team
+
+### R3d3
+- Official username: r3d3pink
+- Telegram: https://t.me/r3d3pink
+- Alternative formats: @r3d3pink, t.me/r3d3pink
+- Role: Main Developer
+
 ## KYC and Audit Support Team
 ### Baby Pink
 - Official username: babypinkpink
@@ -19,9 +27,9 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Role: General Support Staff
 
 ### Macbeth
-- Official username: Macbeth_1987_alt
-- Telegram: https://t.me/Macbeth_1987_alt
-- Alternative formats: @Macbeth_1987_alt, t.me/Macbeth_1987_alt
+- Official username: Macbeth_1987_alt, macbethpink_1987
+- Telegram: https://t.me/Macbeth_1987_alt, https://t.me/macbethpink_1987
+- Alternative formats: @Macbeth_1987_alt, @macbethpink_1987, t.me/Macbeth_1987_alt, t.me/macbethpink_1987
 - Role: General Support Staff
 
 ### Emko
@@ -129,7 +137,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 
 ## Name Variations and Common References
 - Seano: Seano180, @Seano180
-- Macbeth: Macbeth_1987_alt, @Macbeth_1987_alt, Mac
+- Macbeth: Macbeth_1987_alt, macbethpink_1987, @Macbeth_1987_alt, @macbethpink_1987, Mac
 - Emko: EmkoLomsky, @EmkoLomsky
 - Yann: yannpink, @yannpink
 - Chad: chadmaximus, @chadmaximus
@@ -147,6 +155,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Traccy: traccypink, @traccypink
 - Bob: Boborino, @Boborino
 - Megenc: mmegenc, @mmegenc
+- R3d3: r3d3pink, @r3d3pink
 
 ## Important Notes
 - All listed members are official PinkSale support staff

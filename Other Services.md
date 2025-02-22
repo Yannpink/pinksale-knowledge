@@ -4,6 +4,11 @@
 
 Additional services available through PinkSale partners.
 
+## Contact Information
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+- Telegram: https://t.me/saulpink
+- Alternative formats: @saulpink, t.me/saulpink
+
 ## Service Categories
 
 ### 1. Marketing & Promotion

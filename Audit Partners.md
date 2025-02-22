@@ -3,6 +3,11 @@
 ## Overview
 This guide lists verified audit service providers partnered with PinkSale. These partners help verify smart contracts and enhance security for projects.
 
+## Contact Information
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+- Telegram: https://t.me/saulpink
+- Alternative formats: @saulpink, t.me/saulpink
+
 ## PinkSale Internal Audit Service
 ### Contact Information
 - Service Manager: Baby Pink
@@ -10,11 +15,8 @@ This guide lists verified audit service providers partnered with PinkSale. These
 - Alternative formats: @babypinkpink, t.me/babypinkpink
 - Processing Time: 24 - 48 hours
 
-### Referral Information
-- Referral Contact: Saul Pink
-- Telegram: https://t.me/saulpink
-- Alternative formats: @saulpink, t.me/saulpink
-- Note: Mention this referral for better discount
+### Referral Note
+- Always mention "Saul Pink - The owner of Pinksale" when contacting Baby Pink for better discounts on audit services
 
 ## Normal Price Partners
 

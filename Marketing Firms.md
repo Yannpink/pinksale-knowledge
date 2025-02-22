@@ -1,7 +1,12 @@
-## Marketing Firms
+# Marketing Firms
 
 ## Overview
 Marketing professionals are essential for a successful launch. They help develop effective strategies, save time and money, and avoid scammers. A clear marketing strategy for both pre and post launch is crucial - for example, allocating 50 BNB for pre-launch marketing to fill 250 BNB hard cap, and 50 BNB for post-launch.
+
+## Contact Information
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+- Telegram: https://t.me/saulpink
+- Alternative formats: @saulpink, t.me/saulpink
 
 ## Benefits
 1. Knowledge and expertise in effective marketing strategies
@@ -147,5 +152,4 @@ Marketing professionals are essential for a successful launch. They help develop
 - Contact: https://t.me/Brother91
 - Website: https://brother.marketing
 
-## Partnership Inquiries
-For marketing firms looking to partner with PinkSale, contact https://t.me/saulpink
+
