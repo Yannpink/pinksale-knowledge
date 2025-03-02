@@ -4,7 +4,7 @@
 SAFU Badge indicates that a project cannot be manipulated by developers to harm investors. Badge is awarded to KYCed projects meeting specifications with ownership held by SAFU Developer.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 

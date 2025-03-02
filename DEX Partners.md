@@ -42,14 +42,6 @@ This document lists major DEX (Decentralized Exchange) partners across different
 - Trader Joe
   - Website: https://traderjoexyz.com
 
-## Fantom Network
-
-- SpookySwap
-  - Website: https://spooky.fi
-
-- SpiritSwap
-  - Website: https://www.spiritswap.finance
-
 ## Cronos Network
 
 - MM Finance

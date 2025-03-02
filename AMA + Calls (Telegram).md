@@ -16,7 +16,7 @@ A comprehensive list of contacts and channels for PinkSale partnerships, AMAs, a
   - Telegram: https://t.me/babyvalpink
   - Alternative formats: @babyvalpink, t.me/babyvalpink
 
-- Verge (German)
+- Vergil (German)
   - Role: Regional Partnership Manager
   - Telegram: https://t.me/vergepinkalt
   - Alternative formats: @vergepinkalt, t.me/vergepinkalt
@@ -36,7 +36,7 @@ A comprehensive list of contacts and channels for PinkSale partnerships, AMAs, a
   - Telegram: https://t.me/Paul212121
   - Alternative formats: @Paul212121, t.me/Paul212121
 
-- Ibudax (Arabic)
+- Buda - Ibudax (Arabic)
   - Role: Regional Partnership Manager
   - Telegram: https://t.me/ibudax
   - Alternative formats: @ibudax, t.me/ibudax

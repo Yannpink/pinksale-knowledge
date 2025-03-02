@@ -3,7 +3,7 @@
 ## Overview
 A curated list of trusted designers and design studios for Web3 projects. All listed designers have been vetted and have experience in blockchain/crypto projects.
 
-**Important Note**: Please mention you were referred by Saul Pink - The owner of Pinksale to get better discounts.
+**Important Note**: Please mention you were referred by Saul Pink - The owner of Pinksale (a.k.a CEO) to get better discounts.
 
 ## Design Studios & Freelancers
 

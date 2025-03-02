@@ -57,7 +57,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Alternative formats: @Paul212121, t.me/Paul212121
 - Role: General Support Staff
 
-### Budax
+### Buda - Ibudax (Arabic)
 - Official username: ibudax
 - Telegram: https://t.me/ibudax
 - Alternative formats: @ibudax, t.me/ibudax
@@ -69,7 +69,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Alternative formats: @Michold, t.me/Michold
 - Role: General Support Staff
 
-### Verge
+### Vergil
 - Official username: vergepinkalt
 - Telegram: https://t.me/vergepinkalt
 - Alternative formats: @vergepinkalt, t.me/vergepinkalt
@@ -142,9 +142,9 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Yann: yannpink, @yannpink
 - Chad: chadmaximus, @chadmaximus
 - Paul: Paul212121, @Paul212121
-- Budax: ibudax, @ibudax
+- Buda: ibudax, @ibudax
 - Michold: @Michold
-- Verge: vergepinkalt, @vergepinkalt
+- Vergil: vergepinkalt, @vergepinkalt
 - CGA: cga08800, @cga08800
 - Val: babyvalpink, @babyvalpink
 - Hulks: HULKSCALLS, @HULKSCALLS

@@ -4,7 +4,7 @@
 Marketing professionals are essential for a successful launch. They help develop effective strategies, save time and money, and avoid scammers. A clear marketing strategy for both pre and post launch is crucial - for example, allocating 50 BNB for pre-launch marketing to fill 250 BNB hard cap, and 50 BNB for post-launch.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 

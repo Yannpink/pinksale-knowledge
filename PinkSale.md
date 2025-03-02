@@ -4,6 +4,24 @@
 
 PinkSale is a decentralized launchpad platform that enables users to create and sell tokens without coding knowledge.
 
+## Growth & Development
+
+Founded in June 2021, PinkSale has grown to become the leading decentralized launchpad platform since its inception. The platform has consistently evolved to meet the needs of the crypto community, introducing innovative features like:
+- Multi-chain support across major networks
+- Advanced anti-bot protection systems
+- Comprehensive token creation tools
+- Enhanced security measures with KYC and audit partnerships
+- User-friendly interface for both developers and investors
+
+Starting from a simple launchpad on BSC, PinkSale has expanded rapidly across multiple blockchains while maintaining its position as the most trusted and widely-used platform in the space.
+
+## Current Statistics (As of 2024)
+
+- Total Liquidity Raised: $1.8B
+- Total Projects Launched: 31.1K
+- Total Participants: 3.5M
+- Total Value Locked: $223.9M
+
 ## Key Achievements
 
 - Ranked #1 token launchpad by Binance Foundation: https://www.bnbchain.org/en/solutions/tokenization/company-tokenization#get-started
@@ -144,6 +162,30 @@ PinkSale is a decentralized launchpad platform that enables users to create and 
 - PinkSale Calculator (Google Spreadsheet): https://docs.google.com/spreadsheets/d/18fLdYhvOI9tMRlKLOhCYZANMOyYP1G6TFJbPoMJuD70/edit?usp=sharing
 Note: Make a copy of the spreadsheet to use it.
 - Elite Club Application Form: https://docs.google.com/forms/d/e/1FAIpQLSfyNsYONL4AqWlNUUyjfDvwXArp6pP8wL8TvIScA4HyK0krvw/viewform
+
+## Scam Report
+
+### How to Report a Scam Project
+1. For Upcoming/Ongoing Presales:
+   - Must have evidence to support your claim
+   - Use the pinned template in report channel
+   - Submit report to: https://t.me/pinkecosystem_report_scam
+
+2. For Concluded Presales with KYC Badge:
+   - Follow the pinned template in report channel
+   - Submit to: https://t.me/pinkecosystem_report_scam
+   - Include all relevant evidence
+
+3. For Other Cases:
+   - Projects without KYC badge
+   - Projects not in presale phase
+   - Note: Limited actions possible in these cases
+
+### Important Notes
+- Always provide clear evidence
+- Follow the report template exactly
+- Only use official report channel
+- KYC badge cases prioritized
 
 ## Legal
 

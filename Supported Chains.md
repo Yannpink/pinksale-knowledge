@@ -18,3 +18,6 @@
 -   **Polygon**
 -   **Pulse**
 -   **Zeta**
+-   **Fantom (removed)**
+-   **DogChain (removed)**
+-   **Shibarium (removed)**

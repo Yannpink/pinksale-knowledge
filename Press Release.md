@@ -4,7 +4,7 @@
 This document lists press release service providers and contact information for discounts.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 

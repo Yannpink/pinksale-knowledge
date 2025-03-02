@@ -6,7 +6,7 @@ This guide lists verified KYC (Know Your Customer) service providers partnered w
 ## PinkSale Internal KYC Service
 ### Contact Information
 - Service Manager: Baby Pink
-- Official username: babypinkpink
+- Official username: @babypinkpink
 - Telegram: https://t.me/babypinkpink
 - Alternative formats: @babypinkpink, t.me/babypinkpink
 - Role: KYC and Badge Verification Specialist
@@ -14,7 +14,7 @@ This guide lists verified KYC (Know Your Customer) service providers partnered w
 ### Badge Information
 - Service: Official PinkSale KYC Badge
 - Process: Contact Baby Pink on Telegram
-- Referral Note: Mention "Saul Pink - The owner of Pinksale" for special discounts
+- Referral Note: Mention "Saul Pink - The owner of Pinksale (a.k.a CEO)" for special discounts
 
 ## Official External Partners
 

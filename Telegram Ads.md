@@ -4,7 +4,7 @@
 This guide explains PinkSale's Telegram advertising services and how to effectively promote your project through Telegram channels.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 

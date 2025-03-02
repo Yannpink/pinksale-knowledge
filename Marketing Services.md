@@ -4,7 +4,7 @@
 A comprehensive directory of marketing and promotional services for crypto projects, including partnerships, telegram services, press releases, and other specialized services.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 

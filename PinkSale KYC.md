@@ -3,7 +3,15 @@
 ## Overview
 KYC (Know Your Customer) is a verification process for project owners only, designed to prevent scams and protect investors.
 
-## KYC Process
+## How to Apply for KYC
+1. Contact KYC Manager on Telegram: https://t.me/babypinkpink
+2. Pay the KYC fee: $600
+3. Submit required documents:
+   - Passport or National ID
+   - Clear, valid documentation only
+4. Wait for verification (24-48 hours)
+
+## KYC Process Details
 1. Project owners must submit ID documentation (Passport, National ID)
 2. Verification through automated platform
 3. Similar to major exchange KYC requirements

@@ -5,7 +5,7 @@
 Additional services available through PinkSale partners.
 
 ## Contact Information
-For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale:
+For partnership inquiries and better discounts, contact Saul Pink - The owner of Pinksale (a.k.a CEO):
 - Telegram: https://t.me/saulpink
 - Alternative formats: @saulpink, t.me/saulpink
 
@@ -45,4 +45,4 @@ For partnership inquiries and better discounts, contact Saul Pink - The owner of
 
 ## Important Note
 
-Contact Saul Pink - The owner of Pinksale (https://t.me/SaulPink) for better discounts on all services.
+Contact Saul Pink - The owner of Pinksale (a.k.a CEO) (https://t.me/SaulPink) for better discounts on all services.
