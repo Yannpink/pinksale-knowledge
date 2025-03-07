@@ -3,6 +3,8 @@
 ## Overview
 This guide explains how to create a buyback baby token using PinkSale and MetaMask. The process includes configuring token parameters, setting up fees, and managing the buyback function.
 
+**Note: This guide is only applicable for EVM-compatible chains (BSC, Ethereum, Polygon, etc.).**
+
 ## Step 1: Access Token Creation
 1. Go to https://www.pinksale.finance
 2. Click "Launchpads" => "Create token"
@@ -16,6 +18,8 @@ This guide explains how to create a buyback baby token using PinkSale and MetaMa
 ### Reward Token
 - Input contract address of reward token
 - Example: For DOGE rewards, use Binance-Peg Dogecoin contract address
+- **Important Note: The reward token CANNOT be the native token of the chain (BNB/WBNB on BSC, ETH/WETH on Ethereum, etc.)**
+- **Most popular reward token is USDT (BSC USDT: 0x55d398326f99059ff775485246999027b3197955)**
 
 ### Fee Settings
 - Liquidity Fee (%): Percentage automatically sent to liquidity pool

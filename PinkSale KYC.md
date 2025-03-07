@@ -1,7 +1,16 @@
 # PinkSale KYC
 
 ## Overview
-KYC (Know Your Customer) is a verification process for project owners only, designed to prevent scams and protect investors.
+Know Your Customer (KYC) is a process whereby the project owner has shared their identification documents with PinkSale. KYC is used as a deterrent method to reduce illicit and deceptive behaviour.
+
+More information about KYC can be found on the Binance Academy website via: https://academy.binance.com/en/glossary/know-your-customer
+
+More information on PinkSale KYC process can be seen explained in here: https://docs.pinksale.finance/important/pinksale-kyc
+
+### KYC/Audit Related Questions
+For any questions related to KYC, Audit, or verification services that are not in the Knowledge Base:
+
+"I apologize, I don't have specific information about this in our documentation. For KYC/Audit related questions, please contact @babypinkpink who specializes in these services."
 
 ## How to Apply for KYC
 1. Contact KYC Manager on Telegram: https://t.me/babypinkpink

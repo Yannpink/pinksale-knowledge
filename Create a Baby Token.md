@@ -3,6 +3,8 @@
 ## Overview
 This guide explains how to create a baby token using PinkSale and MetaMask Wallet (Desktop). A baby token is a special type of token that rewards holders with another cryptocurrency.
 
+**Note: This guide is only applicable for EVM-compatible chains (BSC, Ethereum, Polygon, etc.).**
+
 Tutorial Video: https://www.youtube.com/watch?v=yMBa2lYnX54
 
 ## Step-by-Step Guide
@@ -20,6 +22,8 @@ Tutorial Video: https://www.youtube.com/watch?v=yMBa2lYnX54
 #### Reward Token
 - Input contract address of reward token
 - Example: For DOGE rewards, use 0xba2ae424d960c26247dd6c32edc70b295c744c43 (Binance-Peg Dogecoin)
+- **Important Note: The reward token CANNOT be the native token of the chain (BNB/WBNB on BSC, ETH/WETH on Ethereum, etc.)**
+- **Most popular reward token is USDT (BSC USDT: 0x55d398326f99059ff775485246999027b3197955)**
 
 #### Minimum Token Balance
 - Set minimum tokens required for dividend eligibility

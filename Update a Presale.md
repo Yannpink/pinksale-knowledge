@@ -21,6 +21,25 @@ You can update the following information:
 - Reddit community
 - Launchpad description
 
+## Additional Editable Parameters
+
+### Time Settings Update Rules
+
+#### For Fairlaunch Pools:
+- You can only update start/end time if:
+  - The duration (endTime - startTime) is less than 1 day
+  - AND the pool is in "Upcoming" status (not yet started)
+
+#### For Other Pool Types (Presale, etc.):
+- You can update start time if:
+  - The start time is greater than the current time (now)
+  - OR the start time is greater than current time AND less than end time
+
+### For Presale
+- **Tokenomics Chart**: Can be hidden or shown
+- **Affiliate Reward**: Can enable or update the percentage
+- **Pool Type**: Can switch between public and whitelist
+
 ## Important Requirements
 - Logo URL must end with supported extensions: png, jpg, jpeg or gif
 - Example valid URL: https://www.pinkswap.finance/pinkswap.png

@@ -1,5 +1,5 @@
 # PinkSale
-
+Pinksale Document: https://docs.pinksale.finance/
 ## Overview
 
 PinkSale is a decentralized launchpad platform that enables users to create and sell tokens without coding knowledge.

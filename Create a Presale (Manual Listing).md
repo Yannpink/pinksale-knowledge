@@ -31,7 +31,7 @@ This guide explains how to create a manual listing presale on PinkSale for EVM-c
 -   Timeline: Start Time must be before End Time
 -   Optional: Enable Vesting Contributor
 
-> For vesting details, see: https://docs.pinksale.finance/presale-vesting/vesting-contributor
+> For vesting details, see: https://docs.pinksale.finance/Presale-Vesting-Guide-13bd7dc69b3e80e097aed8dc43e8384a
 
 Note: Check total tokens needed for presale pool (shown above Back/Next buttons)
 

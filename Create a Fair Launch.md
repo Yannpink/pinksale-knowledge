@@ -57,4 +57,4 @@ Video Tutorial: https://youtu.be/18E_ROn2fIQ
 ## Additional Tools
 
 - PinkSale Calculator for tokenomics planning: https://docs.pinksale.finance/PinkSale-Calculator-137d7dc69b3e80fdb206f8c7002e790c
-- Pink Lock for editing tokenomic chart on presale: https://docs.pinksale.finance/PinkLock/create-a-lock
+- Pink Lock for editing tokenomic chart on presale: https://docs.pinksale.finance/Create-a-Lock-13dd7dc69b3e8081a605d8e3764037df

@@ -7,7 +7,7 @@ A comprehensive list of contacts and channels for PinkSale partnerships, AMAs, a
 
 ### Global English Team
 - Yann (Netherlands)
-  - Role: Partnership Manager
+  - Role: Partnership Manager, Business Development
   - Telegram: https://t.me/yannpink
   - Alternative formats: @yannpink, t.me/yannpink
 
@@ -23,8 +23,8 @@ A comprehensive list of contacts and channels for PinkSale partnerships, AMAs, a
 
 - Macbeth (Indian)
   - Role: Regional Partnership Manager
-  - Telegram: https://t.me/Macbeth_1987_alt, https://t.me/macbethpink_1987
-  - Alternative formats: @Macbeth_1987_alt, @macbethpink_1987, t.me/Macbeth_1987_alt, t.me/macbethpink_1987
+  - Telegram: https://t.me/macbethpink_1987
+  - Alternative formats: @macbethpink_1987, t.me/macbethpink_1987
 
 - Pablo/Exorio (Turkish)
   - Role: Regional Partnership Manager

@@ -24,18 +24,12 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Official username: Seano180
 - Telegram: https://t.me/Seano180
 - Alternative formats: @Seano180, t.me/Seano180
-- Role: General Support Staff
+- Role: General Support Staff | VC Host
 
 ### Macbeth
-- Official username: Macbeth_1987_alt, macbethpink_1987
-- Telegram: https://t.me/Macbeth_1987_alt, https://t.me/macbethpink_1987
-- Alternative formats: @Macbeth_1987_alt, @macbethpink_1987, t.me/Macbeth_1987_alt, t.me/macbethpink_1987
-- Role: General Support Staff
-
-### Emko
-- Official username: EmkoLomsky
-- Telegram: https://t.me/EmkoLomsky
-- Alternative formats: @EmkoLomsky, t.me/EmkoLomsky
+- Official username: macbethpink_1987
+- Telegram: https://t.me/macbethpink_1987
+- Alternative formats: @macbethpink_1987, t.me/macbethpink_1987
 - Role: General Support Staff
 
 ### Yann
@@ -43,7 +37,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Telegram: https://t.me/yannpink
 - Twitter: https://twitter.com/Yannpinksale
 - Alternative formats: @yannpink, t.me/yannpink
-- Role: General Support Staff
+- Role: Partnership Manager, Business Development
 
 ### Chad
 - Official username: chadmaximus
@@ -135,10 +129,15 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Alternative formats: @mmegenc, t.me/mmegenc
 - Role: General Support Staff
 
+### Emko
+- Official username: EmkoLomsky
+- Telegram: https://t.me/EmkoLomsky
+- Alternative formats: @EmkoLomsky, t.me/EmkoLomsky
+- Role: General Support Staff
+
 ## Name Variations and Common References
 - Seano: Seano180, @Seano180
-- Macbeth: Macbeth_1987_alt, macbethpink_1987, @Macbeth_1987_alt, @macbethpink_1987, Mac
-- Emko: EmkoLomsky, @EmkoLomsky
+- Macbeth: macbethpink_1987, @macbethpink_1987, Mac
 - Yann: yannpink, @yannpink
 - Chad: chadmaximus, @chadmaximus
 - Paul: Paul212121, @Paul212121
@@ -156,7 +155,7 @@ For assistance with presales on our platform, you can contact our dedicated supp
 - Bob: Boborino, @Boborino
 - Megenc: mmegenc, @mmegenc
 - R3d3: r3d3pink, @r3d3pink
-
+- Emko: EmkoLomsky, @EmkoLomsky
 ## Important Notes
 - All listed members are official PinkSale support staff
 - Always verify the exact username when contacting support
