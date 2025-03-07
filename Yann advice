@@ -1,0 +1,37 @@
+Difference between presale launch and fair launch:
+In a presale you put an amount of tokens to sell for a set price - example 1000 tokens per bnb.  You have a soft cap and a hard cap, depending on how much BNB that is, every user gets tokens at a fixed price per BNB. You cannot exceed HC limit since price is already fixed per token. 
+Fair launch - you pick a soft cap but no hard cap, if you pass the softcap you can raise as much BNB as you can, after it is finalized depending on how much BNB is raised you get the price. You don't know the price before fair launch is finalized. Then price of the tokens comes as Price = BNB / Tokens
+You can end the fair launch any time after softcap is met. 
+What to remember: Fair Launch doesn't have - Hard Cap, Vesting.  difference between presale and listing price. Price is calculated tokens for sale / funds raised. Everyone gets the same end price. 
+You can change the start / end date of the Fairlaunch only before it start, after start cannot be extended, you can only stop it after reaching softcap.
+https://docs.pinksale.finance/create-a-presale?pvs=25
+https://docs.pinksale.finance/Create-a-Fair-Launch-13bd7dc69b3e800cbe00fec4206fe8c9?pvs=25
+
+We are very high turnover – we have a lot of projects on sale at the same time that compete for the investors’ attention. 
+
+We do provide a range of tools and marketing posts with the listing to help you in the process, but a lot of the projects also create a separate marketing campaign with KOLs, ads on websites and other types of promotion on their own.
+
+
+Pinksale marketing for projects:
+•  Announcement posts on Telegram group & channel (40k followers), 
+•  Announcement posts Twitter (120 followers)
+•  Alert on the Pinksale tracking bot (60k subscribers)
+•  Notification via our KOL launch bot (in over 1000 telegram communities)
+•  Pinksale Email Newsletter (40k subscribers)
+•  Pinksale Trending (Prominent place on top of all pages)
+• Posts in other Pinksale OG groups
+• Buybot in your project group to create FOMO
+• Miniapp for engagement
+
+https://docs.pinksale.finance/Service-Fees-13bd7dc69b3e804387d5ec0d2662bfa0
+
+When it comes to fees we charge a small upfront fee depending on the chain you create the presale on. This is the only fee you pay in advance! 
+There is also a 5% of funds raised success fee take only after your sale has been completed. 
+
+All our other tools, technical support and marketing posts come for free with this fees
+
+Trending has 2 phases:
+
+Before sale starts - here the badges help the most - Dox, KYC, audit, Safu.  Each badge gives you multiplier to the trending score, thus with kyc / audt you can trend before sale has started
+
+Once sale starts - the badges again act as multiplier, but the rest of the score is made from the volume + time till end of sale. The close to end the more trending it gets
